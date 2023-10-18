@@ -1159,4 +1159,4 @@ floorp-toggle-private-container =
   .label = Reopen in Private/No Container
   .accesskey = P
 open-in_private-container =
-  .label = Open in Newtab with Private Container
+  .label = Open in New tab with Private Container
