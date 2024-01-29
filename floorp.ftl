@@ -496,7 +496,7 @@ Peskyfox-label = Yokoffing Peskyfox
 about-Peskyfox = Unclutter the new tab page. Remove Pocket. Restore compact mode as an option. Stop webpage notifications, pop-ups, and other annoyances.
 
 Smoothfox-label = Yokoffing Smoothfox
-about-Smoothfox = Get Edge-like smooth scrolling on your favorite browser — or choose something more your style. 
+about-Smoothfox = Get Edge-like smooth scrolling on your favorite browser — or choose something more your style.
 
 ## Workspaces
 floorp-workspaces-title = { -brand-short-name } Workspaces
@@ -1160,3 +1160,7 @@ floorp-toggle-private-container =
   .accesskey = P
 open-in_private-container =
   .label = Open in New tab with Private Container
+
+## about:telemetry
+telemetry-page-subtitle = Midori Browser does not collect telemetry about your installation - any telemetry modules are disabled when the browser is built. What you do in your browser is only known by you.
+telemetry-privacy-policy = Privacy Policy
